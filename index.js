@@ -1,2 +1,2 @@
-var name = "Susan"
+var name = "Susan";
 var height = "70"
