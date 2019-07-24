@@ -1,4 +1,4 @@
 var name = "Susan";
-var height = "70";
+var height = "74";
 
 module.exports = { name, height}
