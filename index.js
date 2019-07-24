@@ -1,5 +1,5 @@
 var name = "Susan"
-var height = "71"
+var height = "69"
 
 module.exports = { name, height
 }
