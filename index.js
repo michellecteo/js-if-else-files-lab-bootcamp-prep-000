@@ -1,6 +1,4 @@
 var name = "Susan";
-var height = "74"
+var height = "70";
 
-module.exports = { name, height
-}
-
+module.exports = { name, height}
