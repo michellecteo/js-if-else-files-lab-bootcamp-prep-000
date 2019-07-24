@@ -1,2 +1,4 @@
 var name = "Joe"
-var height = "70"
+var height = "74"
+
+module.exports = {name,
